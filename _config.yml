@@ -3,3 +3,6 @@ description: "アルティメット・インストゥルメント（UI）およ�
 theme: jekyll-theme-cayman
 lang: ja
 url: "https://rnt-ui.github.io"
+# カスタムCSSを読み込む
+include:
+  - assets/css/custom.css
