@@ -1,0 +1,18 @@
+/* ==== custom.css : Cayman header color fix ==== */
+
+/* タイトルリンク（上部 "Ultimate_Instrument"） */
+header.page-header h1.project-name a {
+  color: #ffffff !important;        /* 白に変更 */
+  text-decoration: none !important; /* 下線を消す */
+}
+
+/* hover時はやや明るいトーンで強調 */
+header.page-header h1.project-name a:hover {
+  color: #f0f0f0 !important;
+  text-decoration: underline;
+}
+
+/* 副題（description） */
+header.page-header h2.project-tagline {
+  color: #d9f3e6 !important;  /* やや淡い緑白 */
+}
