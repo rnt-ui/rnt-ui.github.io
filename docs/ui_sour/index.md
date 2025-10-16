@@ -11,8 +11,3 @@ UI サワー（UI SOUR) は、UI（アルティメット・インストゥルメ
 - [機材 / Hardware](hardware.md)
 - [UIサワーってなに？](intro.md)
 
-
-## 更新 / Updates
-- [v0.99](update-v099.md)
-- [v0.98](updates/0.98.md)
-- [v0.97](updates/0.97.md)
