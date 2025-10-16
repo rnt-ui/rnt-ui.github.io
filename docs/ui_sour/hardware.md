@@ -1,4 +1,4 @@
-# UI SOUR Ver1.0 機材・配線
+# UI SOUR Ver1.0 美酢サワー　機材・配線
 
 ## コア機材
 - **Make Noise 0-COAST**
