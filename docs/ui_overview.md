@@ -40,7 +40,7 @@ UIは人が操る道具・楽器ではありません。
 - [関係論的ノイズ論 (RNT)](RNT/00-index.md)  
 ノイズを外部的な異物ではなく関係の中で生じる差異と捉え、その差異への応答（即興）と循環（フィードバック）によって生成と更新が進む原理を示す理論。
 
-- [研究ノート / Research notes](docs/research-notes/index.md)  
+- [研究ノート / Research notes](research-notes/index.md)  
   勉強メモ・日誌・読み書きのラフな記録とnoteアプリに連載中のエッセイ。
 
 ---
