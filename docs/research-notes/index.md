@@ -4,6 +4,6 @@
 完成した理論本文というより、勉強メモ・試論・読み書きの途中経過を扱います。
 
 ## 思考ログ
-- [理論と体系について](./theory-and-systems.md)
+- [理論と体系について](docs/research-notes/log01.md)
 ## エッセイ（noteアプリへのリンク）
 - [UIノート](https://note.com/arttkg/m/m7d6e093a18c1)
