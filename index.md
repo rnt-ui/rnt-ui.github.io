@@ -24,12 +24,13 @@ It provides access to the project’s basic information, theoretical writings, p
 
 
 ## その他
+- [日誌・ログ](docs/diary/index.md)
 - [Updates](docs/updates.md)
 - [FAQ](docs/faq.md)
 
 ---
 
-Last Updated：2025-10-16
+Last Updated：2025-12-08
 
 © 2025 Arata Takagi  
 Contact: arttkg@gmail.com
