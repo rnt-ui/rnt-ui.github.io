@@ -7,6 +7,6 @@
 
 - [理論と体系についてのメモ](log01.md)
  
-## エッセイ（noteアプリへのリンク）  
+## エッセイ（noteへのリンク）  
 
 - [UIノート](https://note.com/arttkg/m/m7d6e093a18c1)
