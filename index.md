@@ -29,9 +29,9 @@ It provides access to the project’s basic information, theoretical writings, p
 
 ---
 
-Last Updated：2025-12-30
+Last Updated：2026-01-03
 
-© 2025 Arata Takagi  
+© 2026 Arata Takagi  
 Contact: arttkg@gmail.com
 
 
