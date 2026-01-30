@@ -21,7 +21,7 @@ It provides access to the project’s basic information, theoretical writings, p
 - [UI サワー / UI SOUR](docs/ui_sour/index.md)
 - [UI エクスペリメント / UI EXPERIMENT](docs/ui_experiment/index-02.md)
 - [ライブ情報　/ LIVE information](docs/live-information.md)
-- [UIツクールMZ / UI VIDEO GAME](docs/ui game/index.md)
+- [UIツクールMZ / UI VIDEO GAME](docs/ui_game/index.md)
 
 
 ## その他
