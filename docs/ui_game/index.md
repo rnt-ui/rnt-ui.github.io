@@ -20,5 +20,5 @@ under construction
   - [概要 / Overview](../ui_overview.md)
   - [関係論的ノイズ論（RNT）](../RNT/00-index.md)
 
----
+
 
