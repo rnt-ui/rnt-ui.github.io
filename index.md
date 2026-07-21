@@ -4,7 +4,7 @@
 
 - [高木覚書](https://aratatakagi.bearblog.dev/)
 
-## アルティメット・インストゥルメント
+## Ultimate instrument
 
 アルティメット・インストゥルメントに関する資料
 
