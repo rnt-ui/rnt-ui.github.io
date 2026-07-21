@@ -8,4 +8,4 @@
 
 アルティメット・インストゥルメントに関する資料
 
-- [関係論的ノイズ論](docs/relational-noise-theory.md)
+- [Ultimate instrument](docs/relational-noise-theory.md)
