@@ -10,3 +10,5 @@ Official website of Arata Takagi
 - [You Tube](https://www.youtube.com/channel/UCK09bEu342HAM7jDSgHXoAQ)
 
 - [Twitter](https://x.com/aratatakagi)
+
+- [Contact](https://docs.google.com/forms/d/e/1FAIpQLSe6bgQOqDppN60lHTKxpZp9a13oCCqupUPkZfC13oReqXQv2A/viewform?usp=publish-editor)
