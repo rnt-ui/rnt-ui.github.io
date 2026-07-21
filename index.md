@@ -6,8 +6,3 @@ Official website of Arata Takagi
 - [高木覚書](https://aratatakagi.bearblog.dev/)
 
 - [Ultimate instrument / RNT](docs/relational-noise-theory.md)
-
-
-
-
- Last Updated : 2026-07-21
