@@ -1,6 +1,6 @@
 ## 高木生のサイト
 
-official site of Arata Takagi
+Official website of Arata Takagi
 
 - [高木覚書](https://aratatakagi.bearblog.dev/)
 
