@@ -6,6 +6,5 @@ Official website of Arata Takagi
 
 - [Ultimate instrument / RNT](docs/relational-noise-theory.md)
 
----
 
 Last Updated：2026-07-21
