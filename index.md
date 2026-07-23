@@ -7,8 +7,6 @@ Official website of Arata Takagi.
 
 - [Ultimate instrument / RNT](docs/relational-noise-theory.md)
 
-- [You Tube](https://www.youtube.com/channel/UCK09bEu342HAM7jDSgHXoAQ)
-
-- [Twitter](https://x.com/aratatakagi)
+- [linktree]([https://x.com/aratatakagi](https://linktr.ee/takagiarata))
 
 - [Contact](https://docs.google.com/forms/d/e/1FAIpQLSe6bgQOqDppN60lHTKxpZp9a13oCCqupUPkZfC13oReqXQv2A/viewform?usp=publish-editor)
