@@ -22,3 +22,7 @@ Web / Windows / macOS。
 ## Trailer
 
 [Watch the trailer on YouTube](https://youtu.be/mFd1jYPxN1M)
+
+<video controls playsinline style="width: 100%; max-width: 900px;">
+  <source src="./night-snail-trailer.mp4" type="video/mp4">
+</video>
