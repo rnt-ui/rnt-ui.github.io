@@ -7,7 +7,7 @@ Official website of Arata Takagi.
 
 - [Ultimate instrument / RNT](docs/relational-noise-theory.md)
 
-- [Night Snail](docs/night-snail.md)
+- [Phenomenal Transparency Games](docs/night-snail.md)
 
 - [linktree](https://linktr.ee/takagiarata)
 
