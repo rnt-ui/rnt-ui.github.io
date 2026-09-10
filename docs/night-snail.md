@@ -1,5 +1,7 @@
 # Night Snail
 
+![Night Snail](./nightsnail-cover.png)
+
 A small video game in which you guide a snail through a forest at night, avoiding starlight and collecting roses.  
 The path you take becomes poetry and music.
 
@@ -22,5 +24,3 @@ Web / Windows / macOS。
 ## Trailer
 
 [Watch the trailer on YouTube](https://youtu.be/mFd1jYPxN1M)
-
-![Night Snail](./nightsnail-cover.png)
