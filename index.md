@@ -5,6 +5,8 @@ Official website of Arata Takagi.
 
 - [高木覚書](https://aratatakagi.bearblog.dev/)
 
+- [Night Snail](
+
 - [Ultimate instrument / RNT](docs/relational-noise-theory.md)
 
 - [linktree](https://linktr.ee/takagiarata)
