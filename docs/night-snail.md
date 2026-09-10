@@ -1,6 +1,6 @@
 # Night Snail
 
-A small video game in which you guide a snail through a forest at night, avoiding starlight and collecting roses.
+A small video game in which you guide a snail through a forest at night, avoiding starlight and collecting roses.  
 The path you take becomes poetry and music.
 
 夜の森で、スネイルを動かして星の光を避けたり薔薇を集めたりする小さなビデオゲーム。  
