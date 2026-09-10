@@ -2,7 +2,7 @@
 
 Night Snail is a short game about a snail wandering through a forest at night.
 
-夜の森で、星の光を避けながら薔薇を集めるスネイルの物語。
+夜の森で、スネイルを動かして星の光を避けたり薔薇を集めたりするビデオゲーム。
 プレイの軌跡が、詩と音楽になります。
 
 ## Play
