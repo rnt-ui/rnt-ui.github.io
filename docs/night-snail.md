@@ -18,4 +18,4 @@ Web / Windows / macOS。
 
 ## Trailer
 
-[ここにYouTubeのトレイラーへのリンク](https://youtu.be/mFd1jYPxN1M)
+[(https://youtu.be/mFd1jYPxN1M)]
