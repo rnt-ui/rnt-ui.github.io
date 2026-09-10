@@ -23,4 +23,4 @@ Web / Windows / macOS。
 
 [Watch the trailer on YouTube](https://youtu.be/mFd1jYPxN1M)
 
-![Night Snail](./nightsnail-cover.jpg)
+![Night Snail](./nightsnail-cover.png)
