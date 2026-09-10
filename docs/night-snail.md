@@ -10,7 +10,7 @@ The path you take becomes poetry and music.
 
 ## Play
 
-[Play / Download on itch.io](ITCH.IOのURL)
+[Play / Download on itch.io]([ITCH.IOのURL](https://aratatakagi.itch.io/night-snail))
 
 ## About
 
